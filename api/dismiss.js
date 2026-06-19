@@ -11,7 +11,7 @@
  * 5. Risponde con una pagina HTML di conferma
  */
 
-const MONITOR_REPO = "tigro7/project-monitor"; // ← aggiorna se cambi nome
+const MONITOR_REPO = "tigro7/monitor";
 const MEMORY_PATH = "data/seen-suggestions.json";
 const DISMISS_EXPIRY_DAYS = 365;
 
